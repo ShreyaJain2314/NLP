@@ -35,3 +35,8 @@ It creates a Pandas DataFrame (df) to display the suggested words along with the
 Finally, it defines a spell_check function that takes a word and an optional count parameter. It generates suggestions for the input word and returns the top count suggestions based on their probabilities. In this case, it calls spell_check with the input word "cresh" and returns a list of suggested words with their probabilities.
 
 Overall, this code demonstrates a basic spell-checking mechanism using simple edit operations and word probabilities based on the provided text file.
+
+
+#Embeddings
+
+The embeddings folder shows the working of word2vec and Doc2v on the train and test dataset.
